@@ -1,0 +1,4 @@
+#Mon Jul 17 18:11:35 GMT+03:00 2023
+base.0=/Users/pashoksim/package_example/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
